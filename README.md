@@ -1,4 +1,4 @@
-#jQuery.Calendar.news
+#jQuery.countdown
 
 倒计时插件，时分秒倒计。
 
